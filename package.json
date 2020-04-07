@@ -1,0 +1,28 @@
+{
+  "name": "react-room-booking",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "emotion": "^9.1.2",
+    "emotion-theming": "^9.1.2",
+    "prop-types": "^15.6.1",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-emotion": "^9.1.2",
+    "react-scripts": "1.1.4",
+    "react-toastify": "^4.0.0-rc.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-eslint": "^8.2.3",
+    "eslint": "^4.19.1",
+    "eslint-plugin-babel": "^5.1.0",
+    "eslint-plugin-react": "^7.7.0"
+  }
+}
